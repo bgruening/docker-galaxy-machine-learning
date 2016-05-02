@@ -13,5 +13,5 @@ ENV GALAXY_CONFIG_BRAND="Machine Learning" \
 
 RUN add-tool-shed --url 'https://testtoolshed.g2.bx.psu.edu/' --name 'Test Tool Shed'
 
-ADD protease_prediction.yaml $GALAXY_ROOT/tools.yaml
+ADD ml.yaml $GALAXY_ROOT/tools.yaml
 RUN install-tools $GALAXY_ROOT/tools.yaml
