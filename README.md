@@ -1,2 +1,2 @@
 # docker-galaxy-machine-learning
-Galaxy machine learning flavour
+Docker Galaxy Image for Machine Learning
