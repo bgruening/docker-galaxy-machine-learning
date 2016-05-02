@@ -23,8 +23,8 @@ before_install:
   - export BIOBLEND_GALAXY_API_KEY=admin
   - export BIOBLEND_GALAXY_URL=http://localhost:8080
 
-  - sudo apt-get update
-  - sudo apt-get install docker-engine
+  - sudo apt-get update -qq -y
+  - sudo apt-get install -qq -y docker-engine
 
   - docker --version
   - docker info
