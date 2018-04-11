@@ -38,9 +38,9 @@
 
 api_key: admin
 galaxy_instance: http://localhost:8080
+tool_shed_url: https://toolshed.g2.bx.psu.edu
 tools:
 - name: sklearn_suite
   owner: bgruening
   tool_panel_section_label: "Machine Learning"
-  tool_shed_url: https://testtoolshed.g2.bx.psu.edu
 
