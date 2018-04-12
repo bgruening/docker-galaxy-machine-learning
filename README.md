@@ -1,5 +1,6 @@
 [![Docker Repository on Quay](https://quay.io/repository/galaxy/machine-learning/status "Docker Repository on Quay")](https://quay.io/repository/galaxy/machine-learning)
 [![Build Status](https://travis-ci.org/bgruening/docker-galaxy-machine-learning.svg?branch=master)](https://travis-ci.org/bgruening/docker-galaxy-machine-learning)
+[![Gitter](https://badges.gitter.im/bgruening/docker-galaxy-stable.svg)](https://gitter.im/bgruening/docker-galaxy-stable?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 # Docker Galaxy Image for Machine Learning
 
